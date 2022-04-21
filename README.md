@@ -6,7 +6,7 @@ This respository contains the MATLAB code for a hybrid method to track skeletal 
 + fascicle length 
 + aponeurosis displacement
 
-The hybrid muscle tracking method and its application for tibialis anterior tracking during isometric contractions are described in more detail in our [bioRxiv preprint](). 
+The hybrid muscle tracking method and its application for tibialis anterior tracking during isometric contractions are described in more detail in our [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2022.04.20.488774v1). 
 
 All code described below and contained in this repository has been developed and tested in MATLAB version R2021a. 
 
